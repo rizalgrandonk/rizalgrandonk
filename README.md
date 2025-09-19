@@ -1,12 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rizal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rizal
 =============================================================================================================================
 
 Web Developer
 -------------
 
-I’ve been doing Web Development at for more than 3 years now, and during that time I’ve designed and developed a user-friendly website. I have designed, developed, and launched customized, highly responsive websites and e-commerce solutions using advanced technologies.
-
-*   🌍  I'm based in Surabaya, Indonesia
+*   🌍  Based in Surabaya, Indonesia
 *   ✉️  You can contact me at [m.rizalwaskito@gmail.com](mailto:m.rizalwaskito@gmail.com)
 
 ### Skills 
@@ -28,7 +26,7 @@ I’ve been doing Web Development at for more than 3 years now, and during that 
 
 ### Socials
 <p align="left">
-  <a href="https://www.github.com/grandonk666" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/rizalgrandonk" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
   <a href="http://www.instagram.com/rizal_grandonk" target="_blank" rel="noreferrer">
@@ -40,6 +38,6 @@ I’ve been doing Web Development at for more than 3 years now, and during that 
 </p>
 
 ### My GitHub Stats
-<a href="http://www.github.com/grandonk666">
-  <img src="https://github-readme-stats.vercel.app/api?username=grandonk666&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grandonk666's GitHub stats" />
+<a href="http://www.github.com/rizalgrandonk">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizalgrandonk&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rizalgrandonk's GitHub stats" />
 </a>
