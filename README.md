@@ -36,8 +36,3 @@ Web Developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </p>
-
-### My GitHub Stats
-<a href="http://www.github.com/rizalgrandonk">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizalgrandonk&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rizalgrandonk's GitHub stats" />
-</a>
